@@ -1,0 +1,13 @@
+h1, h2, h3 {
+	color: #D61EC7;
+}
+aside {
+	float:right;
+}
+.left {
+	float: left;
+}
+footer {
+	clear:both;
+	background-color: lightblue;
+}
